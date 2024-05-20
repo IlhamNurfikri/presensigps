@@ -1,0 +1,50 @@
+estimasi
+<div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Create Estimation</h5><a href="javascript:void(0);" data-bs-dismiss="modal"><i class="ti-close"></i></a>
+            </div>
+            <div class="body"><form method="POST" action="http://demo.smartwebinfotech.site/ams-saas/estimation" accept-charset="UTF-8"><input name="_token" type="hidden" value="lABG8pZkRojnTsswgRptlkW71CscFqsN3bTekaeU">
+<div class="modal-body">
+    <div class="row">
+        <div class="form-group col-md-6 col-lg-6">
+            <label for="invoice_id" class="form-label">Estimation ID</label>
+            <input class="form-control" required="required" readonly="" name="invoice_id" type="text" value="#EST-0007" id="invoice_id">
+        </div>
+        <div class="form-group col-md-6 col-lg-6">
+            <label for="category" class="form-label">Category</label>
+            <select class="form-control hidesearch select2-hidden-accessible" required="required" id="category" name="category" data-select2-id="category" tabindex="-1" aria-hidden="true"><option value="" selected="selected" data-select2-id="2">Select Category</option><option value="1">Earned Income</option><option value="2">Interest Income</option><option value="3">Profit Income</option><option value="4">Rental Income</option><option value="5">Royalty Income</option></select><span class="select2 select2-container select2-container--default" dir="ltr" data-select2-id="1" style="width: 100%;"><span class="selection"><span class="select2-selection select2-selection--single" role="combobox" aria-haspopup="true" aria-expanded="false" tabindex="0" aria-disabled="false" aria-labelledby="select2-category-container"><span class="select2-selection__rendered" id="select2-category-container" role="textbox" aria-readonly="true" title="Select Category">Select Category</span><span class="select2-selection__arrow" role="presentation"><b role="presentation"></b></span></span></span><span class="dropdown-wrapper" aria-hidden="true"></span></span>
+        </div>
+        <div class="form-group col-md-6 col-lg-6">
+            <label for="client" class="form-label">Client</label>
+            <select class="form-control hidesearch select2-hidden-accessible" required="required" id="client" name="client" data-select2-id="client" tabindex="-1" aria-hidden="true"><option value="" selected="selected" data-select2-id="4">Select Client</option><option value="10">Dale Banks</option><option value="11">Gavin Rice</option><option value="12">Mason Harrison</option><option value="13">Myrtle Hale</option><option value="14">Test</option></select><span class="select2 select2-container select2-container--default" dir="ltr" data-select2-id="3" style="width: 100%;"><span class="selection"><span class="select2-selection select2-selection--single" role="combobox" aria-haspopup="true" aria-expanded="false" tabindex="0" aria-disabled="false" aria-labelledby="select2-client-container"><span class="select2-selection__rendered" id="select2-client-container" role="textbox" aria-readonly="true" title="Select Client">Select Client</span><span class="select2-selection__arrow" role="presentation"><b role="presentation"></b></span></span></span><span class="dropdown-wrapper" aria-hidden="true"></span></span>
+        </div>
+
+        <div class="form-group col-md-6 col-lg-6">
+            <label for="title" class="form-label">Title</label>
+            <input class="form-control" required="required" name="title" type="text" id="title">
+        </div>
+
+        <div class="form-group col-md-6 col-lg-6">
+            <label for="estimation_date" class="form-label">Estimation Date</label>
+            <input class="form-control" required="required" name="estimation_date" type="date" id="estimation_date">
+        </div>
+        <div class="form-group col-md-6 col-lg-6">
+            <label for="status" class="form-label">Status</label>
+            <select class="form-control hidesearch select2-hidden-accessible" required="required" id="status" name="status" data-select2-id="status" tabindex="-1" aria-hidden="true"><option value="draft" data-select2-id="6">Draft</option><option value="pending_review">Pending Review</option><option value="under_review">Under Review</option><option value="approved">Approved</option><option value="rejected">Rejected</option><option value="on_hold">On Hold</option><option value="completed">Completed</option><option value="cancelled">Cancelled</option></select><span class="select2 select2-container select2-container--default" dir="ltr" data-select2-id="5" style="width: 100%;"><span class="selection"><span class="select2-selection select2-selection--single" role="combobox" aria-haspopup="true" aria-expanded="false" tabindex="0" aria-disabled="false" aria-labelledby="select2-status-container"><span class="select2-selection__rendered" id="select2-status-container" role="textbox" aria-readonly="true" title="Draft">Draft</span><span class="select2-selection__arrow" role="presentation"><b role="presentation"></b></span></span></span><span class="dropdown-wrapper" aria-hidden="true"></span></span>
+        </div>
+        <div class="form-group col-md-12 col-lg-12">
+            <label for="notes" class="form-label">Notes</label>
+            <textarea class="form-control" rows="1" name="notes" cols="50" id="notes"></textarea>
+        </div>
+    </div>
+</div>
+<div class="modal-footer">
+    <button class="btn btn-secondary" type="button" data-bs-dismiss="modal">Close</button>
+    <input class="btn btn-primary ml-10" type="submit" value="Create">
+</div>
+</form>
+
+</div>
+        </div>
+    </div>

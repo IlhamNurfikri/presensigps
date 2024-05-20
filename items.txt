@@ -1,0 +1,626 @@
+<head>
+    <!-- Required meta tags-->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="author" content="Smart AMS SaaS">
+    <meta name="csrf-token" content="A0nPglNI4XEEgXLljOqRFmsXYT1MgzlaJpbLJG67">
+    <title>Smart AMS SaaS -     Item
+ </title>
+
+    <meta name="title" content="">
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+
+
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="http://demo.smartwebinfotech.site/ams-saas">
+    <meta property="og:title" content="">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="storage/upload/seo/">
+
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="http://demo.smartwebinfotech.site/ams-saas">
+    <meta property="twitter:title" content="">
+    <meta property="twitter:description" content="">
+    <meta property="twitter:image" content="storage/upload/seo/">
+
+    <!-- shortcut icon-->
+    <link rel="icon" href="storage/upload/logo/favicon.png" type="image/x-icon">
+    <link rel="shortcut icon" href="storage/upload/logo/favicon.png" type="image/x-icon">
+    <!-- Fonts css-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet">
+    <!-- Font awesome -->
+    <link href="assets/css/vendor/font-awesome.css" rel="stylesheet">
+    <!-- themify icon-->
+    <link href="assets/css/vendor/themify-icons.css" rel="stylesheet">
+
+    <link href="assets/css/vendor/datatable/jquery.dataTables.css" rel="stylesheet">
+    <link href="assets/css/vendor/datatable/buttons.dataTables.css" rel="stylesheet">
+    <link href="assets/css/vendor/datatable/custom-datatable.css" rel="stylesheet">
+
+    <!-- Slick slider-->
+    <link href="assets/css/vendor/slider/slick-slider/slick.css" rel="stylesheet">
+    <link href="assets/css/vendor/slider/slick-slider/slick-theme.css" rel="stylesheet">
+    <link href="assets/css/vendor/select2/select2.css" rel="stylesheet">
+
+    <!-- Scrollbar-->
+    <link href="assets/css/vendor/simplebar.css" rel="stylesheet">
+    <!-- Bootstrap css-->
+    <link href="assets/css/vendor/bootstrap.css" rel="stylesheet">
+
+    <link href="assets/css/vendor/sweetalert/sweetalert2.css" rel="stylesheet">
+
+        <!-- Custom css-->
+        <link href="assets/css/style.css" id="customstyle" rel="stylesheet">
+
+    <link href="css/custom.css" rel="stylesheet">
+
+<script type="text/javascript">
+    window.hasMobileFirstExtension = true;</script></head>
+<body class="customizer-modal ltrmode lightmode">
+<!-- Loader Start-->
+<div class="codex-loader" style="display: none;">
+    <div class="linespinner"></div>
+</div>
+<!-- Loader End-->
+<!-- Header Start-->
+<header class="codex-header">
+    <div class="header-contian d-flex justify-content-between align-items-center">
+        <div class="header-left d-flex align-items-center">
+            <div class="sidebar-action navicon-wrap"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg></div>
+            <ul class="nav-iconlist">
+                <li class="dropdown notification-list topbar-dropdown">
+                    <a class="nav-link dropdown-toggle arrow-none" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="false" aria-expanded="false">
+
+                        <span class="align-middle d-none d-sm-inline-block">English</span>
+                        <i class="mdi mdi-chevron-down d-none d-sm-inline-block align-middle"></i>
+                    </a>
+                    <div class="dropdown-menu dropdown-menu dropdown-menu-animated topbar-dropdown-menu">
+                                                                                    <a href="language/arabic" class="dropdown-item notify-item">
+                                    <span class="align-middle">Arabic</span>
+                                </a>
+                                                                                                                <a href="language/danish" class="dropdown-item notify-item">
+                                    <span class="align-middle">Danish</span>
+                                </a>
+                                                                                                                <a href="language/dutch" class="dropdown-item notify-item">
+                                    <span class="align-middle">Dutch</span>
+                                </a>
+                                                                                                                                                                    <a href="language/english" class="dropdown-item notify-item">
+                                    <span class="align-middle">English</span>
+                                </a>
+                                                                                                                <a href="language/french" class="dropdown-item notify-item">
+                                    <span class="align-middle">French</span>
+                                </a>
+                                                                                                                <a href="language/german" class="dropdown-item notify-item">
+                                    <span class="align-middle">German</span>
+                                </a>
+                                                                                                                <a href="language/italian" class="dropdown-item notify-item">
+                                    <span class="align-middle">Italian</span>
+                                </a>
+                                                                                                                <a href="language/japanese" class="dropdown-item notify-item">
+                                    <span class="align-middle">Japanese</span>
+                                </a>
+                                                                                                                <a href="language/polish" class="dropdown-item notify-item">
+                                    <span class="align-middle">Polish</span>
+                                </a>
+                                                                                                                <a href="language/portuguese" class="dropdown-item notify-item">
+                                    <span class="align-middle">Portuguese</span>
+                                </a>
+                                                                                                                <a href="language/russian" class="dropdown-item notify-item">
+                                    <span class="align-middle">Russian</span>
+                                </a>
+                                                                                                                <a href="language/spanish" class="dropdown-item notify-item">
+                                    <span class="align-middle">Spanish</span>
+                                </a>
+                                                                        </div>
+                </li>
+            </ul>
+        </div>
+        <div class="header-right d-flex align-items-center justify-content-end">
+            <ul class="nav-iconlist">
+                                    <li data-bs-toggle="tooltip" data-bs-original-title="Theme Settings" data-bs-placement="bottom">
+                        <div class="navicon-wrap customizer-action"><i class="fa fa-cog"></i></div>
+                    </li>
+                                <li class="nav-profile">
+                    <div class="media">
+                        <div class="user-icon"><img class="img-fluid rounded-50" src="storage/upload/profile/avatar.png" alt="logo"></div>
+                        <div class="media-body">
+                            <h6>Owner</h6><span class="text-light">owner</span>
+                        </div>
+                    </div>
+                    <div class="hover-dropdown navprofile-drop">
+                        <ul>
+                            <li><a href="settings/account"><i class="ti-user"></i>Profile</a></li>
+                            <li>
+                                <a href="logout" onclick="event.preventDefault(); document.getElementById('frm-logout').submit();"><i class="fa fa-sign-out"></i>Logout</a>
+                                <form id="frm-logout" action="logout" method="POST" class="d-none">
+                                    <input type="hidden" name="_token" value="A0nPglNI4XEEgXLljOqRFmsXYT1MgzlaJpbLJG67">
+                                </form>
+                            </li>
+                        </ul>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</header>
+<!-- Header End-->
+<aside class="codex-sidebar sidebar-light">
+    <div class="logo-gridwrap">
+        <a class="codexbrand-logo" href="home">
+            <img class="img-fluid" src="storage/upload/logo//logo.png" alt="theeme-logo">
+        </a>
+        <a class="codex-darklogo" href="home">
+            <img class="img-fluid" src="storage/upload/logo//logo.png" alt="theeme-logo"></a>
+        <div class="sidebar-action"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg></div>
+    </div>
+    <div class="icon-logo">
+        <a href="home">
+            <img class="img-fluid" src="storage/upload/logo/favicon.png" alt="theeme-logo">
+        </a>
+    </div>
+    <div class="codex-menuwrapper">
+        <ul class="codex-menu custom-scroll" data-simplebar="init"><div class="simplebar-wrapper" style="margin: 0px -20px -38px;"><div class="simplebar-height-auto-observer-wrapper"><div class="simplebar-height-auto-observer"></div></div><div class="simplebar-mask"><div class="simplebar-offset" style="right: 0px; bottom: 0px;"><div class="simplebar-content-wrapper" tabindex="0" role="region" aria-label="scrollable content" style="height: 100%; overflow: hidden scroll;"><div class="simplebar-content" style="padding: 0px 20px 38px;">
+            <li class="cdxmenu-title">
+                <h5>Home</h5>
+            </li>
+            <li class="menu-item ">
+                <a href="dashboard">
+                    <div class="icon-item"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-home"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg></div>
+                    <span>Dashboard</span>
+                </a>
+            </li>
+
+                                                <li class="menu-item ">
+                        <a href="javascript:void(0);">
+                            <div class="icon-item"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-users"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M23 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg></div>
+                            <span>Staff Management</span><i class="fa fa-angle-down"></i>
+                        </a>
+                        <ul class="submenu-list" style="display: none">
+                                                            <li class="">
+                                    <a href="users">Users</a>
+                                </li>
+                                                                                        <li class=" ">
+                                    <a href="role">
+                                        Roles
+                                    </a>
+                                </li>
+                                                                                        <li class="">
+                                    <a href="logged/history">Logged History</a>
+                                </li>
+                            
+                        </ul>
+                    </li>
+                            
+                            <li class="cdxmenu-title">
+                    <h5>Business Management</h5>
+                </li>
+
+                                    <li class="menu-item ">
+                        <a href="client">
+                            <div class="icon-item"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-user"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg></div>
+                            <span>Client</span>
+                        </a>
+                    </li>
+                                                    <li class="menu-item active">
+                        <a href="item">
+                            <div class="icon-item"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-sliders"><line x1="4" y1="21" x2="4" y2="14"></line><line x1="4" y1="10" x2="4" y2="3"></line><line x1="12" y1="21" x2="12" y2="12"></line><line x1="12" y1="8" x2="12" y2="3"></line><line x1="20" y1="21" x2="20" y2="16"></line><line x1="20" y1="12" x2="20" y2="3"></line><line x1="1" y1="14" x2="7" y2="14"></line><line x1="9" y1="8" x2="15" y2="8"></line><line x1="17" y1="16" x2="23" y2="16"></line></svg></div>
+                            <span>Items</span>
+                        </a>
+                    </li>
+                                                    <li class="menu-item  ">
+                        <a href="estimation">
+                            <div class="icon-item"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg></div>
+                            <span>Estimation</span>
+                        </a>
+                    </li>
+                                                    <li class="menu-item  ">
+                        <a href="invoice">
+                            <div class="icon-item"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-plus"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="12" y1="18" x2="12" y2="12"></line><line x1="9" y1="15" x2="15" y2="15"></line></svg></div>
+                            <span>Invoice</span>
+                        </a>
+                    </li>
+                                                    <li class="menu-item  ">
+                        <a href="expense">
+                            <div class="icon-item"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg></div>
+                            <span>Expense</span>
+                        </a>
+                    </li>
+                                                    <li class="menu-item ">
+                        <a href="contact">
+                            <div class="icon-item"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-phone-call"><path d="M15.05 5A5 5 0 0 1 19 8.95M15.05 1A9 9 0 0 1 23 8.94m-1 7.98v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg></div>
+                            <span>Contacts</span>
+                        </a>
+                    </li>
+                
+                                    <li class="menu-item  ">
+                        <a href="note">
+                            <div class="icon-item"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg></div>
+                            <span>Note</span>
+                        </a>
+                    </li>
+                            
+                            <li class="cdxmenu-title">
+                    <h5>Setup</h5>
+                </li>
+                                    <li class="menu-item ">
+                        <a href="item-category">
+                            <div class="icon-item"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-wind"><path d="M9.59 4.59A2 2 0 1 1 11 8H2m10.59 11.41A2 2 0 1 0 14 16H2m15.73-8.27A2.5 2.5 0 1 1 19.5 12H2"></path></svg></div>
+                            <span>Item Category</span>
+                        </a>
+                    </li>
+                                                    <li class="menu-item ">
+                        <a href="item-tax">
+                            <div class="icon-item"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-trello"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><rect x="7" y="7" width="3" height="9"></rect><rect x="14" y="7" width="3" height="5"></rect></svg></div>
+                            <span>Item Tax</span>
+                        </a>
+                    </li>
+                                                    <li class="menu-item ">
+                        <a href="item-unit">
+                            <div class="icon-item"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-tag"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7.01" y2="7"></line></svg></div>
+                            <span>Item Unit</span>
+                        </a>
+                    </li>
+                                                    <li class="menu-item ">
+                        <a href="sales-category">
+                            <div class="icon-item"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-wind"><path d="M9.59 4.59A2 2 0 1 1 11 8H2m10.59 11.41A2 2 0 1 0 14 16H2m15.73-8.27A2.5 2.5 0 1 1 19.5 12H2"></path></svg></div>
+                            <span>Sales Category</span>
+                        </a>
+                    </li>
+                                                        <li class="cdxmenu-title">
+                    <h5>System Settings</h5>
+                </li>
+                                    <li class="menu-item ">
+                        <a href="javascript:void(0);">
+                            <div class="icon-item"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-database"><ellipse cx="12" cy="5" rx="9" ry="3"></ellipse><path d="M21 12c0 1.66-4 3-9 3s-9-1.34-9-3"></path><path d="M3 5v14c0 1.66 4 3 9 3s9-1.34 9-3V5"></path></svg></div>
+                            <span>Pricing</span><i class="fa fa-angle-down"></i>
+                        </a>
+                        <ul class="submenu-list" style="display: none">
+                                                            <li class="">
+                                    <a href="subscriptions">Packages</a>
+                                </li>
+                                                                                        <li class=" ">
+                                    <a href="subscription/transaction">Transactions</a>
+                                </li>
+                                                    </ul>
+                    </li>
+                
+                                                    <li class="menu-item ">
+                        <a href="javascript:void(0);">
+                            <div class="icon-item"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-settings"><circle cx="12" cy="12" r="3"></circle><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"></path></svg></div>
+                            <span>Settings</span><i class="fa fa-angle-down"></i></a>
+                        <ul class="submenu-list " style="display: none">
+                                                            <li class=" ">
+                                    <a href="settings/account">Account Setting</a>
+                                </li>
+                                                                                        <li class="">
+                                    <a href="settings/password">Password Setting</a>
+                                </li>
+                                                                                        <li class=" ">
+                                    <a href="settings/general">General Setting</a>
+                                </li>
+                                                                                        <li class="">
+                                    <a href="settings/company">Company Setting</a>
+                                </li>
+                                                                                        <li class=" ">
+                                    <a href="settings/smtp">Email Setting</a>
+                                </li>
+                                                                                                                                        </ul>
+                    </li>
+                
+            
+
+        </div></div></div></div><div class="simplebar-placeholder" style="width: auto; height: 886px;"></div></div><div class="simplebar-track simplebar-horizontal" style="visibility: hidden;"><div class="simplebar-scrollbar" style="width: 0px; display: none;"></div></div><div class="simplebar-track simplebar-vertical" style="visibility: visible;"><div class="simplebar-scrollbar" style="height: 366px; transform: translate3d(0px, 0px, 0px); display: block;"></div></div></ul>
+    </div>
+</aside>
+<!-- sidebar end-->
+<div class="themebody-wrap">
+    <!-- breadcrumb start-->
+    <div class="codex-breadcrumb">
+        <div class="breadcrumb-contain">
+            <div class="left-breadcrumb">
+                    <ul class="breadcrumb mb-0">
+        <li class="breadcrumb-item">
+            <a href="dashboard"><h1>Dashboard</h1></a>
+        </li>
+        <li class="breadcrumb-item active">
+            <a href="#">
+                Item
+            </a>
+        </li>
+    </ul>
+
+            </div>
+            <div class="right-breadcrumb">
+                <ul>
+                                <a class="btn btn-primary btn-sm ml-20 customModal" href="#" data-size="lg" data-url="item/create" data-title="Create Item"> <i class="ti-plus mr-5"></i>
+            Create Item
+        </a>
+                    </ul>
+            </div>
+        </div>
+    </div>
+    <!-- breadcrumb end-->
+    <!-- theme body start-->
+    <div class="theme-body  " data-simplebar="init"><div class="simplebar-wrapper" style="margin: 0px -12px;"><div class="simplebar-height-auto-observer-wrapper"><div class="simplebar-height-auto-observer"></div></div><div class="simplebar-mask"><div class="simplebar-offset" style="right: 0px; bottom: 0px;"><div class="simplebar-content-wrapper" tabindex="0" role="region" aria-label="scrollable content" style="height: auto; overflow: hidden;"><div class="simplebar-content" style="padding: 0px 12px;">
+        <div class="custom-container common-dash">
+            <div class="row">
+        <div class="col-12">
+            <div class="card">
+                <div class="card-body">
+                    <div id="DataTables_Table_0_wrapper" class="dataTables_wrapper no-footer"><div class="dt-buttons">          <button class="dt-button buttons-print" tabindex="0" aria-controls="DataTables_Table_0" type="button"><span>Print</span></button> <button class="dt-button buttons-excel buttons-html5" tabindex="0" aria-controls="DataTables_Table_0" type="button"><span>Excel</span></button> <button class="dt-button buttons-pdf buttons-html5" tabindex="0" aria-controls="DataTables_Table_0" type="button"><span>PDF</span></button> <button class="dt-button buttons-csv buttons-html5" tabindex="0" aria-controls="DataTables_Table_0" type="button"><span>CSV</span></button> <button class="dt-button buttons-copy buttons-html5" tabindex="0" aria-controls="DataTables_Table_0" type="button"><span>Copy</span></button> </div><div id="DataTables_Table_0_filter" class="dataTables_filter"><label>Search:<input type="search" class="" placeholder="" aria-controls="DataTables_Table_0"></label></div><div class="dataTables_scroll"><div class="dataTables_scrollHead" style="overflow: hidden; position: relative; border: 0px; width: 100%;"><div class="dataTables_scrollHeadInner" style="box-sizing: content-box; width: 1103.75px; padding-right: 0px;"><table class="display dataTable cell-border datatbl-advance no-footer" style="margin-left: 0px; width: 1103.75px;"><thead>
+                        <tr><th class="sorting sorting_asc" tabindex="0" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 146.625px;" aria-sort="ascending" aria-label="Title: activate to sort column descending">Title</th><th class="sorting" tabindex="0" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 77.35px;" aria-label="Item Code: activate to sort column ascending">Item Code</th><th class="sorting" tabindex="0" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 64.9px;" aria-label="Quantity: activate to sort column ascending">Quantity</th><th class="sorting" tabindex="0" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 31.1125px;" aria-label="Unit: activate to sort column ascending">Unit</th><th class="sorting" tabindex="0" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 115.625px;" aria-label="Purchase Price: activate to sort column ascending">Purchase Price</th><th class="sorting" tabindex="0" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 85.4px;" aria-label="Sales Price: activate to sort column ascending">Sales Price</th><th class="sorting" tabindex="0" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 111.175px;" aria-label="Purchase Date: activate to sort column ascending">Purchase Date</th><th class="sorting" tabindex="0" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 69.3625px;" aria-label="Category: activate to sort column ascending">Category</th><th class="sorting" tabindex="0" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 63.8px;" aria-label="Action: activate to sort column ascending">Action</th></tr>
+                        </thead></table></div></div><div class="dataTables_scrollBody" style="position: relative; overflow: auto; width: 100%;"><table class="display dataTable cell-border datatbl-advance no-footer" id="DataTables_Table_0" aria-describedby="DataTables_Table_0_info" style="width: 1107px;"><thead>
+                        <tr style="height: 0px;"><th class="sorting" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 146.625px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;">Title</div></th><th class="sorting" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 77.35px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;">Item Code</div></th><th class="sorting" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 64.9px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;">Quantity</div></th><th class="sorting" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 31.1125px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;">Unit</div></th><th class="sorting" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 115.625px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;">Purchase Price</div></th><th class="sorting" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 85.4px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;">Sales Price</div></th><th class="sorting" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 111.175px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;">Purchase Date</div></th><th class="sorting" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 69.3625px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;">Category</div></th><th class="sorting" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 63.8px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;">Action</div></th></tr>
+                        </thead>
+                        
+                        <tbody>
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                        <tr class="odd">
+                                <td class="sorting_1">Auto Timer Slide Projector</td>
+                                <td>ITC-001</td>
+                                <td>100</td>
+                                <td>Kg </td>
+                                <td>$1000.00 </td>
+                                <td>$1200.00 </td>
+                                <td>Feb 23, 2024 </td>
+                                <td>Bajaj </td>
+                                                                    <td>
+                                        <div class="cart-action">
+                                            <form method="POST" action="item/1" accept-charset="UTF-8"><input name="_method" type="hidden" value="DELETE"><input name="_token" type="hidden" value="A0nPglNI4XEEgXLljOqRFmsXYT1MgzlaJpbLJG67">
+                                                                                            <a class="text-warning customModal" data-size="lg" data-bs-toggle="tooltip" data-bs-original-title="Details" href="#" data-url="item/1" data-title="Item Details"> <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-eye"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path><circle cx="12" cy="12" r="3"></circle></svg></a>
+                                                                                                                                        <a class="text-success customModal" data-bs-toggle="tooltip" data-bs-original-title="Edit" href="#" data-size="lg" data-url="item/1/edit" data-title="Edit Item"> <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-edit"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"></path><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"></path></svg></a>
+                                                                                                                                        <a class=" text-danger confirm_dialog" data-bs-toggle="tooltip" data-bs-original-title="Detete" href="#"> <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-trash-2"><polyline points="3 6 5 6 21 6"></polyline><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path><line x1="10" y1="11" x2="10" y2="17"></line><line x1="14" y1="11" x2="14" y2="17"></line></svg></a>
+                                                                                        </form>
+                                        </div>
+
+                                    </td>
+                                                            </tr><tr class="even">
+                                <td class="sorting_1">AVENGER CRUISE 220</td>
+                                <td>ITC-002</td>
+                                <td>120</td>
+                                <td>inches </td>
+                                <td>$500.00 </td>
+                                <td>$600.00 </td>
+                                <td>Feb 23, 2024 </td>
+                                <td>Canon </td>
+                                                                    <td>
+                                        <div class="cart-action">
+                                            <form method="POST" action="item/2" accept-charset="UTF-8"><input name="_method" type="hidden" value="DELETE"><input name="_token" type="hidden" value="A0nPglNI4XEEgXLljOqRFmsXYT1MgzlaJpbLJG67">
+                                                                                            <a class="text-warning customModal" data-size="lg" data-bs-toggle="tooltip" data-bs-original-title="Details" href="#" data-url="item/2" data-title="Item Details"> <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-eye"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path><circle cx="12" cy="12" r="3"></circle></svg></a>
+                                                                                                                                        <a class="text-success customModal" data-bs-toggle="tooltip" data-bs-original-title="Edit" href="#" data-size="lg" data-url="item/2/edit" data-title="Edit Item"> <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-edit"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"></path><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"></path></svg></a>
+                                                                                                                                        <a class=" text-danger confirm_dialog" data-bs-toggle="tooltip" data-bs-original-title="Detete" href="#"> <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-trash-2"><polyline points="3 6 5 6 21 6"></polyline><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path><line x1="10" y1="11" x2="10" y2="17"></line><line x1="14" y1="11" x2="14" y2="17"></line></svg></a>
+                                                                                        </form>
+                                        </div>
+
+                                    </td>
+                                                            </tr><tr class="odd">
+                                <td class="sorting_1">Laptop</td>
+                                <td>ITC-003</td>
+                                <td>200</td>
+                                <td>PCS </td>
+                                <td>$5000.00 </td>
+                                <td>$6000.00 </td>
+                                <td>Feb 23, 2024 </td>
+                                <td>Electronics </td>
+                                                                    <td>
+                                        <div class="cart-action">
+                                            <form method="POST" action="item/3" accept-charset="UTF-8"><input name="_method" type="hidden" value="DELETE"><input name="_token" type="hidden" value="A0nPglNI4XEEgXLljOqRFmsXYT1MgzlaJpbLJG67">
+                                                                                            <a class="text-warning customModal" data-size="lg" data-bs-toggle="tooltip" data-bs-original-title="Details" href="#" data-url="item/3" data-title="Item Details"> <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-eye"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path><circle cx="12" cy="12" r="3"></circle></svg></a>
+                                                                                                                                        <a class="text-success customModal" data-bs-toggle="tooltip" data-bs-original-title="Edit" href="#" data-size="lg" data-url="item/3/edit" data-title="Edit Item"> <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-edit"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"></path><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"></path></svg></a>
+                                                                                                                                        <a class=" text-danger confirm_dialog" data-bs-toggle="tooltip" data-bs-original-title="Detete" href="#"> <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-trash-2"><polyline points="3 6 5 6 21 6"></polyline><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path><line x1="10" y1="11" x2="10" y2="17"></line><line x1="14" y1="11" x2="14" y2="17"></line></svg></a>
+                                                                                        </form>
+                                        </div>
+
+                                    </td>
+                                                            </tr><tr class="even">
+                                <td class="sorting_1">Mobile Phones</td>
+                                <td>ITC-004</td>
+                                <td>150</td>
+                                <td>PCS </td>
+                                <td>$10000.00 </td>
+                                <td>$15000.00 </td>
+                                <td>Feb 24, 2024 </td>
+                                <td>Electronics </td>
+                                                                    <td>
+                                        <div class="cart-action">
+                                            <form method="POST" action="item/4" accept-charset="UTF-8"><input name="_method" type="hidden" value="DELETE"><input name="_token" type="hidden" value="A0nPglNI4XEEgXLljOqRFmsXYT1MgzlaJpbLJG67">
+                                                                                            <a class="text-warning customModal" data-size="lg" data-bs-toggle="tooltip" data-bs-original-title="Details" href="#" data-url="item/4" data-title="Item Details"> <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-eye"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path><circle cx="12" cy="12" r="3"></circle></svg></a>
+                                                                                                                                        <a class="text-success customModal" data-bs-toggle="tooltip" data-bs-original-title="Edit" href="#" data-size="lg" data-url="item/4/edit" data-title="Edit Item"> <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-edit"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"></path><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"></path></svg></a>
+                                                                                                                                        <a class=" text-danger confirm_dialog" data-bs-toggle="tooltip" data-bs-original-title="Detete" href="#"> <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-trash-2"><polyline points="3 6 5 6 21 6"></polyline><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path><line x1="10" y1="11" x2="10" y2="17"></line><line x1="14" y1="11" x2="14" y2="17"></line></svg></a>
+                                                                                        </form>
+                                        </div>
+
+                                    </td>
+                                                            </tr><tr class="odd">
+                                <td class="sorting_1">Smartphone</td>
+                                <td>ITC-005</td>
+                                <td>50</td>
+                                <td>PCS </td>
+                                <td>$2000.00 </td>
+                                <td>$2500.00 </td>
+                                <td>Feb 23, 2024 </td>
+                                <td>Lentes </td>
+                                                                    <td>
+                                        <div class="cart-action">
+                                            <form method="POST" action="item/5" accept-charset="UTF-8"><input name="_method" type="hidden" value="DELETE"><input name="_token" type="hidden" value="A0nPglNI4XEEgXLljOqRFmsXYT1MgzlaJpbLJG67">
+                                                                                            <a class="text-warning customModal" data-size="lg" data-bs-toggle="tooltip" data-bs-original-title="Details" href="#" data-url="item/5" data-title="Item Details"> <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-eye"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path><circle cx="12" cy="12" r="3"></circle></svg></a>
+                                                                                                                                        <a class="text-success customModal" data-bs-toggle="tooltip" data-bs-original-title="Edit" href="#" data-size="lg" data-url="item/5/edit" data-title="Edit Item"> <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-edit"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"></path><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"></path></svg></a>
+                                                                                                                                        <a class=" text-danger confirm_dialog" data-bs-toggle="tooltip" data-bs-original-title="Detete" href="#"> <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-trash-2"><polyline points="3 6 5 6 21 6"></polyline><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path><line x1="10" y1="11" x2="10" y2="17"></line><line x1="14" y1="11" x2="14" y2="17"></line></svg></a>
+                                                                                        </form>
+                                        </div>
+
+                                    </td>
+                                                            </tr><tr class="even">
+                                <td class="sorting_1">Washing machine</td>
+                                <td>ITC-006</td>
+                                <td>150</td>
+                                <td>PCS </td>
+                                <td>$3000.00 </td>
+                                <td>$3500.00 </td>
+                                <td>Feb 23, 2024 </td>
+                                <td>Electronics </td>
+                                                                    <td>
+                                        <div class="cart-action">
+                                            <form method="POST" action="item/6" accept-charset="UTF-8"><input name="_method" type="hidden" value="DELETE"><input name="_token" type="hidden" value="A0nPglNI4XEEgXLljOqRFmsXYT1MgzlaJpbLJG67">
+                                                                                            <a class="text-warning customModal" data-size="lg" data-bs-toggle="tooltip" data-bs-original-title="Details" href="#" data-url="item/6" data-title="Item Details"> <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-eye"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path><circle cx="12" cy="12" r="3"></circle></svg></a>
+                                                                                                                                        <a class="text-success customModal" data-bs-toggle="tooltip" data-bs-original-title="Edit" href="#" data-size="lg" data-url="item/6/edit" data-title="Edit Item"> <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-edit"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"></path><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"></path></svg></a>
+                                                                                                                                        <a class=" text-danger confirm_dialog" data-bs-toggle="tooltip" data-bs-original-title="Detete" href="#"> <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-trash-2"><polyline points="3 6 5 6 21 6"></polyline><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path><line x1="10" y1="11" x2="10" y2="17"></line><line x1="14" y1="11" x2="14" y2="17"></line></svg></a>
+                                                                                        </form>
+                                        </div>
+
+                                    </td>
+                                                            </tr></tbody>
+                    </table></div></div><div class="dataTables_info" id="DataTables_Table_0_info" role="status" aria-live="polite">Showing 1 to 6 of 6 entries</div><div class="dataTables_paginate paging_simple_numbers" id="DataTables_Table_0_paginate"><a class="paginate_button previous disabled" aria-controls="DataTables_Table_0" data-dt-idx="0" tabindex="-1" id="DataTables_Table_0_previous">Previous</a><span><a class="paginate_button current" aria-controls="DataTables_Table_0" data-dt-idx="1" tabindex="0">1</a></span><a class="paginate_button next disabled" aria-controls="DataTables_Table_0" data-dt-idx="2" tabindex="-1" id="DataTables_Table_0_next">Next</a></div></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        </div>
+    </div></div></div></div><div class="simplebar-placeholder" style="width: auto; height: 462px;"></div></div><div class="simplebar-track simplebar-horizontal" style="visibility: hidden;"><div class="simplebar-scrollbar" style="width: 0px; transform: translate3d(0px, 0px, 0px); display: none;"></div></div><div class="simplebar-track simplebar-vertical" style="visibility: hidden;"><div class="simplebar-scrollbar" style="height: 0px; display: none;"></div></div></div>
+    <!-- theme body start-->
+</div>
+<div class="modal fade" id="customModal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title"></h5><a href="javascript:void(0);" data-bs-dismiss="modal"><i class="ti-close"></i></a>
+            </div>
+            <div class="body">
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- footer start-->
+<footer class="codex-footer">
+    <p>Copyright 2024 © Smart AMS SaaS All rights reserved.</p>
+</footer>
+<!-- footer end-->
+<!-- back to top start //-->
+<div class="scroll-top"><i class="fa fa-angle-double-up"></i></div>
+<!-- back to top end //-->
+<!-- main jquery-->
+<script src="assets/js/jquery.js"></script>
+<!-- Theme Customizer-->
+<script src="assets/js/layout-storage.js"></script>
+
+    <script>
+        var public_path='assets/css';
+        $(".customizer-modal").append('' +
+            '<form method="post" action="theme/settings"><input type="hidden" name="_token" value="A0nPglNI4XEEgXLljOqRFmsXYT1MgzlaJpbLJG67"><div class="customizer-layer"></div>' +
+            '<div class="customizer-action bg-primary"><i data-feather="settings"></i>' +
+            '</div><div class="theme-cutomizer"> ' +
+            '<div class="customizer-header"> <h4>Theme Setting</h4> ' +
+            '<div class="close-customizer"><i data-feather="x"></i></div>' +
+            '</div>' +
+            '<input type="hidden" name="theme_color" id="theme_color" value="color1">' +
+            '<input type="hidden" name="sidebar_mode" id="sidebar_mode" value="light">' +
+            '<input type="hidden" name="layout_direction" id="layout_direction" value="ltrmode">' +
+            '<input type="hidden" name="layout_mode" id="layout_mode" value="lightmode">' +
+            '<input type="hidden" name="own_color" id="own_color" value="--primary-rgb: 0,0,0">' +
+            '<input type="hidden" name="own_color_code" id="own_color_code" value="#000000">' +
+            '<input type="hidden" name="color_type" id="color_type" value="default">' +
+            '<div class="customizer-body"> ' +
+            '<div class="cutomize-group"> ' +
+            '<h6 class="customizer-title">Theme Color</h6> ' +
+            '<ul class="customizeoption-list themecolor-list" > ' +
+            '<li class="color1 active-mode"></li>' +
+            '<li class="color2 "></li>' +
+            '<li class="color3 "></li>' +
+            '<li class="color4 "></li>' +
+            '<li class="color5 "></li>' +
+            '<li class="color6 "></li>' +
+            '<li class="color7 "></li>' +
+            '<li class="color8 "></li>' +
+            '<li class="color9 "></li>' +
+            '</ul> ' +
+            '<ul class="" > ' +
+            '<li class="custom-color">Choose Your Own Color <input class="" value="#000000" id="colorChange" type="color" data-id="bg-color" data-id1="bg-hover" data-id2="bg-border" data-id7="transparentcolor" ></li>'+
+            '</ul> ' +
+            '</div>' +
+
+            '<div class="cutomize-group "> ' +
+            '<h6 class="customizer-title">Layout mode</h6> ' +
+            '<ul class="customizeoption-list"> ' +
+            '<li class="light-action active-mode">Light</li>' +
+            '<li class="dark-action ">Dark</li>' +
+            '</ul> ' +
+            '</div>' +
+            '<div class="cutomize-group"> ' +
+            '<h6 class="customizer-title">Sidebar Mode</h6> ' +
+            '<ul class="customizeoption-list sidebaroption-list"> ' +
+            '<li class="sidebarlight-action active-mode">Light</li>' +
+            '<li class="sidebardark-action ">Dark</li>' +
+            '<li class="sidebargradient-action ">Gradient</li>' +
+            '</ul> ' +
+            '</div>' +
+            '<div class="cutomize-group"> ' +
+            '<h6 class="customizer-title">Layout Direction</h6> ' +
+            '<ul class="customizeoption-list"> ' +
+            '<li class="ltr-action active-mode">LTR</li>' +
+            '<li class="rtl-action ">RTL</li>' +
+            '</ul> ' +
+            '</div>' +
+
+                            '<button type="submit" class="btn btn-primary mt-20">Save</button>' +
+            '</div>' +
+            '</div></form>' +
+            '');
+    </script><form method="post" action="theme/settings"><input type="hidden" name="_token" value="A0nPglNI4XEEgXLljOqRFmsXYT1MgzlaJpbLJG67"><div class="customizer-layer"></div><div class="customizer-action bg-primary"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-settings"><circle cx="12" cy="12" r="3"></circle><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"></path></svg></div><div class="theme-cutomizer"> <div class="customizer-header"> <h4>Theme Setting</h4> <div class="close-customizer"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-x"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg></div></div><input type="hidden" name="theme_color" id="theme_color" value="color1"><input type="hidden" name="sidebar_mode" id="sidebar_mode" value="light"><input type="hidden" name="layout_direction" id="layout_direction" value="ltrmode"><input type="hidden" name="layout_mode" id="layout_mode" value="lightmode"><input type="hidden" name="own_color" id="own_color" value="--primary-rgb: 0,0,0"><input type="hidden" name="own_color_code" id="own_color_code" value="#000000"><input type="hidden" name="color_type" id="color_type" value="default"><div class="customizer-body"> <div class="cutomize-group"> <h6 class="customizer-title">Theme Color</h6> <ul class="customizeoption-list themecolor-list"> <li class="color1 active-mode"></li><li class="color2 "></li><li class="color3 "></li><li class="color4 "></li><li class="color5 "></li><li class="color6 "></li><li class="color7 "></li><li class="color8 "></li><li class="color9 "></li></ul> <ul class=""> <li class="custom-color">Choose Your Own Color <input class="" value="#000000" id="colorChange" type="color" data-id="bg-color" data-id1="bg-hover" data-id2="bg-border" data-id7="transparentcolor"></li></ul> </div><div class="cutomize-group "> <h6 class="customizer-title">Layout mode</h6> <ul class="customizeoption-list"> <li class="light-action active-mode">Light</li><li class="dark-action ">Dark</li></ul> </div><div class="cutomize-group"> <h6 class="customizer-title">Sidebar Mode</h6> <ul class="customizeoption-list sidebaroption-list"> <li class="sidebarlight-action active-mode">Light</li><li class="sidebardark-action ">Dark</li><li class="sidebargradient-action ">Gradient</li></ul> </div><div class="cutomize-group"> <h6 class="customizer-title">Layout Direction</h6> <ul class="customizeoption-list"> <li class="ltr-action active-mode">LTR</li><li class="rtl-action ">RTL</li></ul> </div><button type="submit" class="btn btn-primary mt-20">Save</button></div></div></form>
+<script src="assets/js/customizer.js"></script>
+<!-- Feather icons js-->
+<script src="assets/js/icons/feather-icon/feather.js"></script>
+<!-- Bootstrap js-->
+<script src="assets/js/bootstrap.bundle.js"></script>
+<!-- Scrollbar-->
+<script src="assets/js/vendors/simplebar.js"></script>
+<!-- apex chart-->
+<script src="assets/js/vendors/chart/apexcharts.js"></script>
+
+
+<script src="assets/js/vendors/select2/select2.js"></script>
+
+<script src="assets/js/vendors/sweetalert/sweetalert2.js"></script>
+<script src="assets/js/vendors/sweetalert/custom-sweetalert2.js"></script>
+
+<script src="assets/js/vendors/slider/slick-sldier/slick.js"></script>
+<script src="assets/js/vendors/slider/slick-sldier/slick-custom.js"></script>
+<!-- Datatable-->
+<script src="assets/js/vendors/datatable/jquery.dataTables.js"></script>
+<script src="assets/js/vendors/datatable/dataTables.buttons.js"></script>
+<script src="assets/js/vendors/datatable/buttons.print.js"></script>
+<script src="assets/js/vendors/datatable/jszip.js"></script>
+<script src="assets/js/vendors/datatable/pdfmake.js"></script>
+<script src="assets/js/vendors/datatable/vfs_fonts.js"></script>
+<script src="assets/js/vendors/datatable/buttons.html5.js"></script>
+
+<!-- Custom script-->
+
+<script src="assets/js/vendors/notify/bootstrap-notify.js"></script>
+
+<script src="assets/js/custom-script.js"></script>
+
+<script src="js/custom.js"></script>
+
+
+<svg id="SvgjsSvg1001" width="2" height="0" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev" style="overflow: hidden; top: -100%; left: -100%; position: absolute; opacity: 0;"><defs id="SvgjsDefs1002"></defs><polyline id="SvgjsPolyline1003" points="0,0"></polyline><path id="SvgjsPath1004" d="M0 0 "></path></svg>
+
+</body>
+</hml>
